@@ -8,6 +8,6 @@
 This is where code would go
 ```
 
-!ohh[This is an image of a cat]('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwhat-cat&psig=AOvVaw1jS8igkTi0P-NWldhPafhP&ust=1712723069448000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi-6-KktIUDFQAAAAAdAAAAABAH')
+!ohh[This is an image of a cat]('https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952brnxd5i7whbtnkl9tfx2p0pr28h870h3mlka9glp&ep=v1_gifs_search&rid=200w.gif&ct=g')
 
 [More on cats](factsoncats.md)
