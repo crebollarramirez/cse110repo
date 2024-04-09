@@ -14,10 +14,10 @@ This is where code would go
 
 [More pictures on cats](https://pixabay.com/images/search/cat/)
 
-Which cats do you like:
-- [ ] Black cat
-- [ ] British Shorthair
-- [ ] Maine Coon
-- [ ] Persian Cat
-- [ ] Ragdoll
-- [ ] Sphynx Cat
+Cat I have pet:
+- [X]  Black cat
+- [ ]  British Shorthair
+- [ ]  Maine Coon
+- [X]  Persian Cat
+- [ ]  Ragdoll
+- [ ]  Sphynx Cat
