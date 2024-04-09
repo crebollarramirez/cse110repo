@@ -4,6 +4,12 @@
 
 > This is a quote
 
+
+### Siamese Cat
+![Siamese cat](Siamese-Cat_0.webp)
+
+### Sphynx Cat
+![Cat](sphynxcat.jpeg)
 ```
 This is where code would go
 ```
