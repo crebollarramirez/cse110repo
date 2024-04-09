@@ -12,4 +12,4 @@ This is where code would go
 
 [More on cats](factsoncats.md)
 
-[More pictures on cats]('https://pixabay.com/images/search/cat/')
+[More pictures on cats](https://pixabay.com/images/search/cat/)
