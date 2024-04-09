@@ -12,6 +12,8 @@ This is where code would go
 
 [More on cats](factsoncats.md)
 
+[How to pet a cat](petcat.md)
+
 [More pictures on cats](https://pixabay.com/images/search/cat/)
 
 Cat I have pet:
