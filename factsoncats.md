@@ -20,7 +20,11 @@ Cats are beloved for a multitude of reasons, each contributing to their charm an
 
 10. Unconditional Love: Despite their independent nature, cats are capable of forming deep and lasting bonds with their human companions. Their loyalty and affection know no bounds, making them cherished members of countless households.
 
-
+I have cats on my own which are named:
+- Princess
+- Max
+- Gardfia
+- Salmon
 
 
 
