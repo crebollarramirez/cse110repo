@@ -5,7 +5,7 @@ I love to program in C++ and in Python. I also love cats. Here are some of my fa
 
 This is the first line of code I have ever written.
 ```
-std::cout << "Hello World" << std::endl'
+std::cout << "Hello World" << std::endl
 ```
 > The first language I learned was C++. I then went on in learning Python, Java, and database languages.
 
