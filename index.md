@@ -9,6 +9,8 @@ std::cout << "Hello World" << std::endl'
 ```
 > The first language I learned was C++. 
 
+## Anyways, here are pictures and information I like about cats:
+
 ### Siamese Cat
 ![Siamese cat](Siamese-Cat_0.webp)
 
