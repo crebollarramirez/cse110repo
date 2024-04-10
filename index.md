@@ -9,13 +9,15 @@ std::cout << "Hello World" << std::endl'
 ```
 > The first language I learned was C++. I then went on in learning Python, Java, and database languages.
 
-## Anyways, here are pictures and information I like about cats:
+## Anyways, here are pictures and information I like about cats
 
 ### Siamese Cat
 ![Siamese cat](Siamese-Cat_0.webp)
 
 ### Sphynx Cat
 ![Cat](sphynxcat.jpeg)
+
+## Here is more information about cats
 
 ![This is an image of a cat](computercat.gif)
 
