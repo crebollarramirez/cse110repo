@@ -18,7 +18,6 @@ std::cout << "Hello World" << std::endl'
 ![Cat](sphynxcat.jpeg)
 
 ## Here is more information about cats
-
 ![This is an image of a cat](computercat.gif)
 
 [More on cats](factsoncats.md)
