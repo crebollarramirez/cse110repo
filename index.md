@@ -26,7 +26,7 @@ std::cout << "Hello World" << std::endl'
 
 [More pictures on cats](https://pixabay.com/images/search/cat/)
 
-Cat I have pet:
+Cat I seem in person:
 - [X]  Black cat
 - [ ]  British Shorthair
 - [ ]  Maine Coon
