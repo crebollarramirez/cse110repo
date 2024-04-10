@@ -1,6 +1,6 @@
 # About Me
 
-**Name: Christopher Rebollar-Ramirez**
+**Name: Christopher Rebollar-Ramirez** \
 I love to program in C++ and in Python. I also love cats. Here are some of my favorite things about cats.
 
 This is the first line of code I have ever written.
