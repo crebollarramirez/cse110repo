@@ -7,7 +7,7 @@ This is the first line of code I have ever written.
 ```
 std::cout << "Hello World" << std::endl'
 ```
-> The first language I learned was C++. 
+> The first language I learned was C++. I then went on in learning Python, Java, and database languages.
 
 ## Anyways, here are pictures and information I like about cats:
 
