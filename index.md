@@ -1,8 +1,10 @@
-# This is a heading
+# About Me
 
-**This is a bold test**
+**Name: Christopher Rebollar-Ramirez**
+I love to program in C++ and in Python. I also love cats. Here are some of my favorite things about cats.
 
-> This is a quote
+This is the first line of code I have ever written.
+> std::cout << "Hello World" << std::endl'
 
 
 ### Siamese Cat
