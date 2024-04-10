@@ -4,17 +4,16 @@
 I love to program in C++ and in Python. I also love cats. Here are some of my favorite things about cats.
 
 This is the first line of code I have ever written.
-> std::cout << "Hello World" << std::endl'
-
+```
+std::cout << "Hello World" << std::endl'
+```
+> The first language I learned was C++. 
 
 ### Siamese Cat
 ![Siamese cat](Siamese-Cat_0.webp)
 
 ### Sphynx Cat
 ![Cat](sphynxcat.jpeg)
-```
-This is where code would go
-```
 
 ![This is an image of a cat](computercat.gif)
 
